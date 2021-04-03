@@ -1,5 +1,5 @@
 {
-  "name": "Node Unblocker",
-  "description": "Evande internet censorship",
-  "repository": "https://github.com/nfriedly/nodeunblocker.com"
+  "name": "Invidious Node",
+  "description": "Invidious is an alternative front-end to YouTube",
+  "repository": "https://github.com/Pers0n-dev/Invidious-Node"
 }
