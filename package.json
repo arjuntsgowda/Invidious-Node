@@ -1,10 +1,10 @@
 {
-  "name": "nodeunblocker.com",
-  "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
+  "name": "Invidious Node",
+  "description": "Invidious is an alternative front-end to YouTube",
+  "author": "Pers0n-dev",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/nfriedly/nodeunblocker.com/",
+  "homepage": "https://github.com/Pers0n-dev/Invidious-Node/",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "~1.2.0",
