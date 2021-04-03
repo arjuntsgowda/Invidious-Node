@@ -6,4 +6,4 @@ A better version on EPS-Students proxy, that actually deploys and works!
 Credits:
 - https://github.com/EPS-Student/invidious-heroku
 - https://github.com/nfriedly/nodeunblocker.com
-- https://github.com/omarroth/invidious
+- https://github.com/iv-org/invidious
